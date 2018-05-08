@@ -10,10 +10,10 @@ html {
 body {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #F4C2C2;
+    background-color: #f4c2c2;
 }
 
-img {
+#podcast img {
     padding-top: 1vw;
     height: 12vw;
     width: 12vw;
@@ -25,6 +25,21 @@ img {
 }
 
 #interview img {
+    height: 100%;
+    width: 100%;
+}
+
+#ex img {
+    height: 100%;
+    width: 100%;
+}
+
+#persona img {
+    height: 100%;
+    width: 100%;
+}
+
+#story img {
     height: 100%;
     width: 100%;
 }
